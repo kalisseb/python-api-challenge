@@ -10,6 +10,8 @@ numpy
 
 scipy.stats (linregress)
 
+hvplot.pandas
+
 requests
 
 time
